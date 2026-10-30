@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+simulator_env/
+simulator_env310/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+IMG/
+driving_log.csv
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
